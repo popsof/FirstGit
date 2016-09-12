@@ -1,5 +1,9 @@
 my first text file
 first git test
 333333
-444444
 
+444444
+555555
+>>>>>>> origin/branch2
+
+Test
